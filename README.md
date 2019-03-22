@@ -2,9 +2,13 @@
 
 > A Vue.js project
 
+# start Vue UI :
+
+> vue ui --host 127.0.0.1 --port 3000
+
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
