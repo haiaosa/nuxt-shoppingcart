@@ -1,3 +1,7 @@
+# Hướng đi này
+
+> Bây h mày sẽ dùng Nuxt. Tiếp đó mày dùng Buefy components để tạo giao diện. Bước cuối cùng, vào vuejs.org học cách sử dụng các components kia để xuất dữ liệu chính xác, đúng nơi ( lúc này mới dùng VueX ).
+
 # shopping-cart
 
 > A Vue.js project
